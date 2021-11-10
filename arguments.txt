@@ -1,4 +1,4 @@
-student name        students roll number
+student name for branch B2        students roll number
 
 bob                  89
 dom                  90
