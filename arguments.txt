@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-student name for branch B1        students roll number
-=======
-student name for branch B2        students roll number
->>>>>>> B2
+student name       student roll number
 
 bob                  89
 dom                  90
