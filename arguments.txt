@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-student name       student roll number
-=======
-student name        students roll number
->>>>>>> B2
+student name        students roll number:
 
 bob                  89
 dom                  90
